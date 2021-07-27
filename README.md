@@ -31,7 +31,7 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/hawlanjs/github-readme-streak-stats">
+    <a href="https://github.com/sinagun/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hawlanjs&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
