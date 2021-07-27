@@ -56,7 +56,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.instagram.com/professor_ufo/"><img src="https://img.icons8.com/ios/64/000000/external-email-advertising-kiranshastry-lineal-color-kiranshastry-2.png"/></a>
+<a href = "https://www.instagram.com/professor_ufo/"><img src="https://img.icons8.com/fluent/96/000000/send-mass-email.png"/></a>
 <a href = "https://www.youtube.com/channel/UCyJLNRXKhXTvRugaM3e8tkw"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
