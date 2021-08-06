@@ -65,7 +65,7 @@
 <a href = "https://twitter.com/sinasalimipour"><img align="left" alt="codeSTACKr | Twitter"  src="https://img.icons8.com/color/96/000000/twitter--v2.png" />
 <a href = "https://www.linkedin.com/in/sina-salimipour-577030216/"><img align="left" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/dusk/96/000000/linkedin.png"/>
 <a href="mailto:sinasalimipour@hotmail.com"><img src="https://img.icons8.com/fluent/96/000000/send-mass-email.png"/></a>
-<a href="tel:+989365041380"><img src="https://img.icons8.com/fluent/96/000000/signal-app.png"/></a>
+<a href="https://t.me/SINAGUN"><img src="https://img.icons8.com/cute-clipart/96/000000/telegram-app.png"/>
     
 
 </p>
