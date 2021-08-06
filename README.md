@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning Fundamentals of information technology And AWS.
+- 🌱 I’m currently learning Fundamentals of information technology And Javascript.
 - 👀 I’m passionate about cloud technologies and blockchain Technology
 - 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/sina-salimipour-577030216/) and [Twitter](https://twitter.com/sinasalimipour)
 - 🥅 2021 Goal's: Contribute more to Open Source projects.
@@ -58,15 +58,12 @@
 <br/>
 <br/>
 
-## Connect with me:
-###
-
-<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
-<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+### Connect with me:
 <p align="left">
-
+    
+<img align="left" alt="codeSTACKr.com"  src="https://img.icons8.com/dusk/96/000000/domain.png" />
+<img align="left" alt="codeSTACKr | Twitter"  src="https://img.icons8.com/color/96/000000/twitter--v2.png" />
+<img align="left" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/dusk/96/000000/linkedin.png"/>
 <a href = "#"><img src="https://img.icons8.com/fluent/96/000000/send-mass-email.png"/></a>
 <a href = "#"><img src="https://img.icons8.com/fluent/96/000000/signal-app.png"/></a>
 
