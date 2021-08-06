@@ -7,10 +7,14 @@
 
 ## 🙋‍♂️ About Me
 
+- 🌱 I’m currently learning Fundamentals of information technology And AWS.
+- 👀 I’m passionate about cloud technologies and blockchain Technology
+- 📫 How to reach me? [LinkedIn](https://www.linkedin.com/in/sina-salimipour-577030216/) and [Twitter](https://twitter.com/sinasalimipour)
+- 🥅 2021 Goal's: Contribute more to Open Source projects.
+- ✔ I’m looking to collaborate with other content creators.
+- 🧿 Any type of suggestion's and recommendation's are most welcome:)
 - 🔭 I’m currently working on **travel agency website**
-
 - ⚡ Fun fact **I play games (csgo)**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 ## 🚀 Languages and Tools:
