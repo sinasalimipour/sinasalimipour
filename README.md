@@ -36,7 +36,7 @@
 <br/>
 
 <p align="center">
-
+<!--     <a href="https://github.com/sinagun/github-readme-streak-stats"> -->
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sinagun&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
@@ -44,9 +44,9 @@
 ## 📊 My Github Stats
 
   <br/>
-<>
-    <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sinagun&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=170e0d" /></a>
- <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinagun&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=343434" /></a>
+    <a href="https://camo.githubusercontent.com/4109ef632cd9da009edf20cc0d607a5c083e654e4746d4c98422c4321b67850e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73696e6167756e2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d313730653064"> <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sinagun&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://camo.githubusercontent.com/fcc5c7bdf0e8b173147cf2df7199f00ad7a714bd88d5b5e30209b500e049373f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73696e6167756e266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d333433343334"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinagun&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -56,7 +56,6 @@
 
 <a href="https://github.com/sinagun/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sinagun&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
-<br/>
 <br/>
 
 ### Connect with me:
