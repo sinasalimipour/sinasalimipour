@@ -58,6 +58,35 @@
 
 <br/>
 
+
+
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=sinagun&no-frame=true&margin-w=15&theme=nord)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### Connect with me:
 <p align="left">
     
@@ -77,6 +106,5 @@
 </a>
 <a href="https://github.com/sinagun?tab=followers"><img src="https://img.shields.io/github/followers/sinagun?label=Followers&style=social" alt="GitHub Badge"></a>
 
-    
-    
-![trophy](https://github-profile-trophy.vercel.app/?username=sinagun&no-frame=true&margin-w=15&theme=nord)
+ 
+
