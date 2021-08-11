@@ -79,4 +79,4 @@
 
     
     
-    ![trophy](https://github-profile-trophy.vercel.app/?username=sinagun&no-frame=true&margin-w=15&theme=nord)
+![trophy](https://github-profile-trophy.vercel.app/?username=sinagun&no-frame=true&margin-w=15&theme=nord)
