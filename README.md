@@ -59,34 +59,6 @@
 <br/>
 
 
-
-
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sinagun&no-frame=true&margin-w=15&theme=nord)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### Connect with me:
 <p align="left">
     
@@ -108,3 +80,4 @@
 
  
 
+![trophy](https://github-profile-trophy.vercel.app/?username=sinagun&no-frame=true&margin-w=15&theme=nord)
