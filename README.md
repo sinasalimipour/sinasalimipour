@@ -80,4 +80,4 @@
 
  
 
-![trophy]https://github-profile-trophy.vercel.app/?username=sinagun&theme=juicyfresh
+![trophy](https://github-profile-trophy.vercel.app/?username=sinagun&theme=juicyfresh)
