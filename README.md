@@ -17,6 +17,9 @@
 - ⚡ Fun fact **I play games (csgo)**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
+
+
+
 ## 🚀 Languages and Tools:
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -27,6 +30,8 @@
     <a href="#" target="_blank"> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> </a> 
 </p>
 
+
+ 
  [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 
@@ -46,6 +51,9 @@
   <br/>
     <a href="https://camo.githubusercontent.com/4109ef632cd9da009edf20cc0d607a5c083e654e4746d4c98422c4321b67850e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73696e6167756e2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d313730653064"> <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sinagun&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://camo.githubusercontent.com/fcc5c7bdf0e8b173147cf2df7199f00ad7a714bd88d5b5e30209b500e049373f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73696e6167756e266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d333433343334"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinagun&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  
+  
+   ![trophy](https://github-profile-trophy.vercel.app/?username=sinagun&row=1&column=10)
   <br/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -80,4 +88,4 @@
 
  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=sinagun)](https://github.com/sinagun/github-profile-trophy)
+
