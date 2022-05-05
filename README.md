@@ -36,7 +36,12 @@
     </a>
 </p>
 
+<<<<<<< HEAD
  <p align="center"> 
+=======
+## 📊 My Github Stats
+<p align="center"> 
+>>>>>>> 5429e96060509b430c17da0d892370836c16bb33
   <br/>
     <a href="https://camo.githubusercontent.com/4109ef632cd9da009edf20cc0d607a5c083e654e4746d4c98422c4321b67850e/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73696e6167756e2673686f775f69636f6e733d7472756526636f756e745f707269766174653d74727565267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d313730653064"> <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sinagun&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://camo.githubusercontent.com/fcc5c7bdf0e8b173147cf2df7199f00ad7a714bd88d5b5e30209b500e049373f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d73696e6167756e266c616e67735f636f756e743d3826636f756e745f707269766174653d74727565266c61796f75743d636f6d70616374267468656d653d726561637426686964655f626f726465723d747275652662675f636f6c6f723d333433343334"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinagun&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
@@ -54,12 +59,21 @@
 </p>
 
 ### Connect with me:
+<<<<<<< HEAD
 <p align="center">
 <a href="mailto:sinasalimipour@hotmail.com"><img align="center"  src="https://img.icons8.com/fluent/90/000000/send-mass-email.png"/></a>
 <a href="https://t.me/SINAGUN"><img align="center" src="https://img.icons8.com/cute-clipart/90/000000/telegram-app.png"/>
 <a href = "https://sinagun.github.io/webpage-sinaonly-mywebsite-0.4/"><img align="center" alt="codeSTACKr.com"  src="https://img.icons8.com/dusk/96/000000/domain.png" />
 <a href = "https://twitter.com/sinasalimipour"><img align="center" alt="codeSTACKr | Twitter"  src="https://img.icons8.com/color/96/000000/twitter--v2.png" />
 <a href = "https://www.linkedin.com/in/sina-salimipour-577030216/"><img align="center" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/dusk/96/000000/linkedin.png"/>
+=======
+<p align="left">
+<a href = "https://sinagun.github.io/webpage-sinaonly-mywebsite-0.4/"><img align="left" alt="codeSTACKr.com"  src="https://img.icons8.com/dusk/96/000000/domain.png" />
+<a href = "https://twitter.com/sinasalimipour"><img align="left" alt="codeSTACKr | Twitter"  src="https://img.icons8.com/color/96/000000/twitter--v2.png" />
+<a href = "https://www.linkedin.com/in/sina-salimipour-577030216/"><img align="left" alt="codeSTACKr | LinkedIn" src="https://img.icons8.com/dusk/96/000000/linkedin.png"/>
+<a href="mailto:sinasalimipour@hotmail.com"><img src="https://img.icons8.com/fluent/96/000000/send-mass-email.png"/></a>
+<a href="https://t.me/SINAGUN"><img src="https://img.icons8.com/cute-clipart/96/000000/telegram-app.png"/>
+>>>>>>> 5429e96060509b430c17da0d892370836c16bb33
 </p>
 
 
