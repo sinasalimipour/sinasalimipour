@@ -10,7 +10,7 @@
 - 🥅 2022 Goal's: Contribute more to Open Source projects.
 - ✔ I’m looking to collaborate with other content creators.
 - 🧿 Any type of suggestion's and recommendation's are most welcome:)
-- 🔭 I’m currently working on **travel agency website**
+- 🔭 I’m currently working on **my homelab**
 - ⚡ Fun fact **I play games (csgo)**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
