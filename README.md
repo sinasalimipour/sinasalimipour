@@ -23,6 +23,13 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <a href="https://www.linux.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+    <img src="https://img.icons8.com/plasticine/48/000000/kali-linux.png"/>
+    <img src="https://img.icons8.com/color/48/000000/debian.png"/>
+    <img src="https://img.icons8.com/color/48/000000/docker.png"/>
+    <img src="https://img.icons8.com/plasticine/48/000000/bash.png"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="48px">
 </p>
 
 <br/>
