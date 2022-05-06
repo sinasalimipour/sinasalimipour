@@ -18,12 +18,13 @@
 
 
 ## 🚀 Languages and Tools:
-<p align="center"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
-    <a href="https://www.linux.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+<p align="center">Main Skills</p>
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <img src="https://img.icons8.com/color/48/000000/git.png"/> </a>
+    <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img src="https://img.icons8.com/plasticine/48/000000/kali-linux.png"/>
     <img src="https://img.icons8.com/color/48/000000/debian.png"/>
@@ -31,13 +32,15 @@
     <img src="https://img.icons8.com/plasticine/48/000000/bash.png"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Cisco_logo_blue_2016.svg" width="48px">
 </p>
-
-<br/>
-
-
-
-
->
+<p align="center">Secondary Skills</p>
+<p align="center">
+    <img src="https://img.icons8.com/color/48/000000/ms-word.png"/>
+    <img src="https://img.icons8.com/color/48/000000/ms-powerpoint--v1.png"/>
+    <img src="https://img.icons8.com/color/48/000000/ms-excel.png"/>
+    <img src="https://img.icons8.com/color/48/000000/adobe-after-effects--v2.png"/>
+    <img src="https://img.icons8.com/color/48/000000/adobe-photoshop--v2.png"/>
+    <img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro--v2.png"/>
+</p>
 
 ## 📊 My Github Stats
 <p align="center">
