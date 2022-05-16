@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm sina</h1>
 <h3 align="center">I'm a self-taught Network Security Engineer from iran.</h3>
 
-
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning Fundamentals of information technology And Javascript.
