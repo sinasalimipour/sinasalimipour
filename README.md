@@ -14,7 +14,6 @@
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 
-
 ## 🚀 Languages and Tools:
 <p align="center">Main Skills</p>
 <p align="center">
